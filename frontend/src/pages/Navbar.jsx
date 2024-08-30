@@ -324,7 +324,7 @@ const Navbar = () => {
                                         <Logout fontSize="small" />
                                     </ListItemIcon>
                                     <Link to="/Logout">
-                                        Logout
+                                    Logout
                                     </Link>
                                 </MenuItem>
                             </Menu>
