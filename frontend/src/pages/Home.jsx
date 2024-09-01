@@ -1,7 +1,7 @@
 import React, { useEffect, useState } from 'react';
 import { Box, Container, styled } from '@mui/material';
 import Slide from './Slide';
-import Banner from './Banner';
+// import Banner from './Banner';
 import { useDispatch, useSelector } from 'react-redux';
 import { getProducts } from '../redux/userHandle';
 import ProductsMenu from './customer/components/ProductsMenu';
@@ -46,7 +46,7 @@ const Home = () => {
         <ProductsMenu dropName="Products" />
       </Container>
       <BannerBox>
-        <Banner />
+        {/* <Banner />  will include later if needed*/} 
       </BannerBox>
 
       {showNetworkError ? (

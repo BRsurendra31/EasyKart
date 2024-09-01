@@ -120,7 +120,7 @@ const Navbar = () => {
                                 flexGrow: 1,
                                 fontFamily: 'monospace',
                                 fontWeight: 700,
-                                letterSpacing: '.3rem',
+                                letterSpacing: '.1rem',
                                 color: 'inherit',
                                 textDecoration: 'none',
                             }}
@@ -134,7 +134,7 @@ const Navbar = () => {
                                 duration={500}
                                 onClick={homeHandler}
                             >
-                                EasyKart
+                            EasyKart
                             </NavLogo>
                         </Typography>
                     </HomeContainer>
@@ -199,7 +199,7 @@ const Navbar = () => {
                                 display: { xs: 'none', md: 'flex' },
                                 fontFamily: 'monospace',
                                 fontWeight: 700,
-                                letterSpacing: '.3rem',
+                                letterSpacing: '.1rem',
                                 color: 'inherit',
                                 textDecoration: 'none',
                             }}
@@ -215,7 +215,7 @@ const Navbar = () => {
                             >
                                 <LocalMallIcon sx={{ display: { xs: 'none', md: 'flex' }, mr: 1 }} />
 
-                                EasyKart
+                            EasyKart
                             </NavLogo>
                         </Typography>
                     </HomeContainer>

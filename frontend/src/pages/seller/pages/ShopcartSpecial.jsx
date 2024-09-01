@@ -3,7 +3,7 @@ import React from 'react'
 const ShopcartSpecial = () => {
   return (
     <div>
-      ShopcartSpecial
+      EasyKart Special
     </div>
   )
 }
