@@ -1,2 +1,4 @@
 Production link :
-<link href="https://easykart-frontend.onrender.com/" />
+[EasyKart]([URL](https://easykart-frontend.onrender.com))
+
+### Contribution details will be provided soon...
